@@ -72,8 +72,8 @@ function startServer() {
         info: {
           title: 'API Documentation',
           contact: {
-            name: 'Fission Team',
-            email: 'pmdashboard@fissionlabs.com',
+            name: 'API Server',
+            email: 'ishtiaque.zafar92@gmail.com',
           },
           version: Pack.version,
         },

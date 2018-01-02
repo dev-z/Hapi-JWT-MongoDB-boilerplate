@@ -1,11 +1,12 @@
 # HapiJS-JWT-mongodb-boilerplate #
 
 HapiJS quickstart project boiler with integrated JWT authentication and mongodb.
+Uses ESLint along with Airbnb JavaScript styleguide to help you write clean code.
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version 1.0.0
+* TODO Quick summary
+* TODO Version 1.0.0
 
 ### How do I get set up? ###
 
@@ -38,6 +39,4 @@ Create a .env file in the root folder. Inside this file, the following variables
 
 ### Who do I talk to? ###
 
-* pmdashboard@fissionlabs.com
-* ishtiaque.zafar@fissionlabs.in
-* Other community or team contact
+* ishtiaque.zafar92@gmail.com
