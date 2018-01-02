@@ -1,0 +1,43 @@
+{
+  "name": "jj-pmdashboard-server",
+  "version": "0.0.1",
+  "main": "server.js",
+  "dependencies": {
+    "bcrypt": "^1.0.3",
+    "boom": "^7.1.1",
+    "config": "^1.19.0",
+    "dotenv": "^4.0.0",
+    "good": "6.6.0",
+    "good-console": "5.3.1",
+    "good-file": "5.1.2",
+    "handlebars": "^4.0.11",
+    "hapi": "^16.6.2",
+    "hapi-auth-jwt2": "^7.3.0",
+    "hapi-auto-routes": "^1.1.0",
+    "hapi-swagger": "7.9.1",
+    "inert": "^4.2.1",
+    "joi": "^13.0.2",
+    "jsonwebtoken": "^8.1.0",
+    "lodash": "^4.17.4",
+    "moment": "^2.20.1",
+    "mongodb": "^3.0.1",
+    "mongoload": "^0.1.0",
+    "mongoose": "^4.11.5",
+    "mongoose-timestamp": "^0.6.0",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-loader": "^1.9.0",
+    "eslint-plugin-import": "^2.8.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha --timeout 10000"
+  },
+  "author": "FissionLabs",
+  "license": "MIT",
+  "description": "REST API Server for PM Dashboard"
+}
